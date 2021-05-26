@@ -3,15 +3,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ThiagoSS1/maratona-discover-finances?color=green&style=plastic">
 
- 
-  <a href="https://github.com/thiagoss1/README-maratona-discover-finances/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoSS1/maratona-discover-fianances">
-  </a>
-    
+
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
 
   <a href="https://rocketseat.com.br">
     <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
