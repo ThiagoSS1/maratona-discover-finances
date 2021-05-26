@@ -15,10 +15,14 @@
     </a>
 
 
-# maratona-discover-finances
+  <h4 align="center"> 
+ Finance$ - Concluído 🚀 🚧
+</h4>
+
+  
 ## 💻 Sobre o projeto
 
-♻️ Finance$ - O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+$ Finance$ - O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat].
