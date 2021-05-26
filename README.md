@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagoss1/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagoss1/maratona-discover-fianances?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
 
