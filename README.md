@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagoss1/maratona-discover-fianances?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ThiagoSS1/maratona-discover-finances?style=plastic">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ThiagoSS1/maratona-discover-finances?color=green&style=plastic">
 
  
   <a href="https://github.com/thiagoss1/README-maratona-discover-finances/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoSS1/maratona-discover-fianances">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
